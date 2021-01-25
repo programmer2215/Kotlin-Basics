@@ -3,7 +3,7 @@
 fun main(){
 // VARIABLES
 // There are are two ways you can declare variables in Kotlin
-// using the "var" keyword creates a variable whose value can be change at any point in time
+// using the "var" keyword creates a variable whose value can be changed at any point in time
     var name: String = "Mark"
 // using the "val" keyword creates a constant
     val pi: Double = 3.14159265
